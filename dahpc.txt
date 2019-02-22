@@ -1,0 +1,27 @@
+Ques 1 - 
+
+    Give a detailed comparison of condor, SGE, and PBS interms of the following - 
+        (a) Job Checkpointing
+        (b) Job Supported
+        (c) Job Scheduling
+        (d) GUI Support
+        (e) Job Flow Management
+
+Ques 2- 
+
+    Explain how scheduling works with respect to various types of jobs like 
+        
+        (a) Batch jobs
+        (b) Interactive jobs
+        (c) Parallel jobs
+        
+    with suitable parallel paradigms.
+
+Ques 3 - 
+
+    How CUDA is applied for all GPU and CPU applications paradigm.
+    
+Ques 4 -
+
+    Explain the various real world problems in which CUDA is applied.Describe any threee real world problems.
+
